@@ -8,12 +8,19 @@ Latihan 4
 2. Buat table mahasiswa dan tentukan tipe datanya dengan kolom:
 
 a. id_mhs
+
 b. nama
+
 c. nim
+
 d. no_hp
+
 e. email
+
 f. jurusan
+
 g. foto profil
+
 h. alamat
 
 ![image](https://user-images.githubusercontent.com/49084406/189476046-4c4716ae-3304-449a-8909-2b1f3c63c18d.png)
